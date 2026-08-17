@@ -1,4 +1,4 @@
-#Theephiga Balendran-Data Analytics Portfolio
+Theephiga Balendran-Data Analytics Portfolio
 
 First Class Honours Computer Science graduate (City, St George's, University of London) with a focus on data analytics, finance, and business insight. This repository collects my strongest SQL, Python, Forage simulation, and Excel/Power BI work in one place.
 
