@@ -13,7 +13,7 @@ Languages & Tools: Python (pandas, NumPy) · SQL (MySQL) · Power BI · Excel Co
 | [Layoffs EDA](./sql-projects/layoffs-eda) | SQL | MySQL | Cleaned and explored a global layoffs dataset using CTEs, window functions, and rolling totals to surface trends by industry and company stage. |
 | [Stock Trading News Alert](./python-projects/stock-alert-bot) | Python | Alpha Vantage, NewsAPI, Twilio | Automated tool that flags significant stock price movements and texts relevant news headlines using three chained APIs. |
 | [Churn Analysis EDA](./python-projects/churn-analysis) | Python | pandas, Jupyter | Exploratory analysis on a merged client and pricing dataset to identify drivers of customer churn, styled after a BCG case study. |
-| [Citi Markets Quantitative Analyst](./forage-simulations/citi-mqa) | Forage | Python | Simulated quant analyst tasks covering Monte Carlo simulation and Value-at-Risk (VaR) modelling for a derivatives desk. |
+| [Citi Markets Quantitative Analyst](./forage-simulations/citi-mqa) | Forage | Quant Finance, Risk Modelling | Simulated quant analyst tasks covering Monte Carlo simulation and Value-at-Risk (VaR) modelling for a derivatives desk. |
 | [Tata Data Visualisation](./forage-simulations/tata-tcs) | Forage | Excel / Power BI | Cleaned and visualised a 540K+ row retail dataset to generate business recommendations for a supply chain client. |
 | [Survey Dashboard](./excel-powerbi/survey-dashboard) | Power BI | DAX, Power Query | Interactive dashboard built from survey response data, including custom DAX measures and conditional formatting. |
 
