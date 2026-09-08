@@ -14,7 +14,7 @@ Languages & Tools: Python (pandas, NumPy) · SQL (MySQL) · Power BI · Excel Co
 | [Churn Analysis EDA](./python-projects/churn-analysis) | Python | pandas, Jupyter | Exploratory analysis on a merged client and pricing dataset to identify drivers of customer churn, styled after a BCG case study. |
 | [Citi Markets Quantitative Analyst](./forage-simulations/citi-mqa) | Forage | Quant Finance, Risk Modelling | Simulated quant analyst tasks covering Monte Carlo simulation and Value-at-Risk (VaR) modelling for a derivatives desk. |
 | [Tata Data Visualisation](./forage-simulations/tata-tcs) | Forage | Excel / Power BI | Cleaned and visualised a 540K+ row retail dataset to generate business recommendations for a supply chain client. |
-| [Survey Dashboard](./excel-powerbi/survey-dashboard) | Power BI | DAX, Power Query | Interactive dashboard built from survey response data, including custom DAX measures and conditional formatting. |
+| [Personal Investment Portfolio Analytics](./excel-powerbi/portfolio-analytics) | Power BI, Python | DAX, Power Query, pandas, matplotlib | Interactive dashboard and analysis of 185 personal ISA trades (£2,250 invested), combining custom DAX measures with a Python/pandas pipeline to surface portfolio concentration and trading-pattern insights. |
 
 Contact
 
