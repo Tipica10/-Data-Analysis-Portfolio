@@ -9,6 +9,7 @@ Languages & Tools: Python (pandas, NumPy) · SQL (MySQL) · Power BI · Excel Co
 
 | Project | Category | Tools | Description |
 |---|---|---|---|
+| Found Charity Shop Sales Analysis | Python | pandas, statsmodels, Prophet, scikit-learn | Cleaned two years of real till data from a local charity shop, then used regression, time-series forecasting, and clustering to identify sales drivers and presented findings to the shop manager. |
 | [Layoffs EDA](./sql-projects/layoffs-eda) | SQL | MySQL | Cleaned and explored a global layoffs dataset using CTEs, window functions, and rolling totals to surface trends by industry and company stage. |
 | [Stock Trading News Alert](./python-projects/stock-alert-bot) | Python | Alpha Vantage, NewsAPI, Twilio | Automated tool that flags significant stock price movements and texts relevant news headlines using three chained APIs. |
 | [Churn Analysis EDA](./python-projects/churn-analysis) | Python | pandas, Jupyter | Exploratory analysis on a merged client and pricing dataset to identify drivers of customer churn, styled after a BCG case study. |
